@@ -13,6 +13,8 @@ First impressions:
 
 # What I liked
 
+- This course focused on CLI usage and commands that are done in the background, rather than teaching how to use a Git extension in a specific coding environment. I think this makes the teaching workflow more streamlined, as well as making this teaching appicable to any coding environment.
+
 
 
 # What I disliked

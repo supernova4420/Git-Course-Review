@@ -1,5 +1,6 @@
 # Title
-A Review of Git-Course By SZ and SZ Alone
+A Review of Git-Course By SZ. Including an External Review
+
 
 # Author
 SZ
@@ -19,3 +20,8 @@ First impressions:
 # What I disliked
 
 - Ngl wish I could get rid of this annoying crlf warning (SZ.agitated, 2024)
+
+
+# External Review
+
+My name is not SZ, I though this Git Course was absolute rubbish, I was putting commands in just like the notes (example: $ git _____) and nothing ever worked! I know I'm smart but this course was so bad nothing worked.

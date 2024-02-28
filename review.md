@@ -7,7 +7,7 @@ SZ
 
 
 ## Introduction
-This is my expert review on the git-course hosted by Gerard Capes.
+This is my expert review on the git-course hosted by Gerard.
 
 First impressions: 
 

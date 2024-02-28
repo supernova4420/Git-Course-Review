@@ -7,4 +7,7 @@ SZ
 # Introduction
 This is my expert review on the git-course hosted by Gerard Capes.
 
-First impressions: this dude is low-key funny as hell
+First impressions: 
+
+- This dude is low-key funny as hell (SZ, 2024)
+- Ngl wish I could get rid of this annoying crlf warning (SZ.agitated, 2024)

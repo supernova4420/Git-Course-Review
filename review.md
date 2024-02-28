@@ -1,5 +1,5 @@
 # Title
-A Review of Git-Course By SZ
+A Review of Git-Course By SZ and SZ Alone
 
 # Author
 SZ

@@ -31,3 +31,5 @@ First impressions:
 ## Conclusion
 
 In conclusion, I would highly reccomend this Git course to anyone looking to have a fundamental understanding of how Git really works. This is key information if you actually want to utilise version control effectivly and professionally.
+
+nyahaha

@@ -12,7 +12,7 @@ This is my expert review on the git-course hosted by Gerard.
 First impressions: 
 
 - This dude is low-key funny as hell (SZ, 2024)
-- He has a biker gear; I hope he doest ride a ped - bikes are cooler
+- He has some biker gear; I hope he doest ride a ped - bikes are cooler
 
 
 ## What I liked

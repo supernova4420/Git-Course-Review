@@ -27,6 +27,11 @@ First impressions:
 - Ngl wish I could get rid of this annoying crlf warning (SZ.agitated, 2024)
 
 
+## Conclusion
+
+In conclusion, I would highly reccomend this Git course to anyone looking to have a fundamental understanding of how Git really works. This is key information if you actually want to utilise version control effectivly and professionally.
+
+
 ## External Review
 
 My name is not SZ, I though this Git Course was absolute rubbish, I was putting commands in just like the notes (example: $ git _____) and nothing ever worked! I know I'm smart but this course was so bad nothing worked.

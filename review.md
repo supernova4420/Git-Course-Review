@@ -22,6 +22,8 @@ First impressions:
 
 - This course focused on CLI usage and commands that are done in the background, rather than teaching how to use a Git extension in a specific coding environment. I think this makes the teaching workflow more streamlined, as well as making this teaching appicable to any coding environment.
 
+- The amount of free coffee
+
 
 ## What I disliked
 
@@ -31,3 +33,6 @@ First impressions:
 ## Conclusion
 
 In conclusion, I would highly reccomend this Git course to anyone looking to have a fundamental understanding of how Git really works. This is key information if you actually want to utilise version control effectivly and professionally.
+<<<<<<< HEAD
+
+nyahaha
